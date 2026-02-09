@@ -6,6 +6,8 @@ public class cg {
 		// TODO Auto-generated method stub
 		
 		int s = 0;
+		
+		int j =0;
 
 	}
 
